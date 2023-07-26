@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Olá 👋👋
+- 🔭 eu sou atualmente um estudante
+- 🌱 Eu estou aprendendo PC (Pensamento Computacional)
+- 
 <!--
 **dasxtes/dasxtes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
